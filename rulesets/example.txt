@@ -1,0 +1,8 @@
+# Example ruleset.
+# Add one rule repo name per line (no versions).
+#
+# Rules referenced here must have a v1 tag to remain in a ruleset.
+#
+# TDD
+# SpecsFirst
+

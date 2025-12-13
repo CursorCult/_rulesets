@@ -1,0 +1,9 @@
+# Copy this file to rulesets/<NAME>.txt and list one rule per line.
+#
+# Rulesets do not pin versions.
+# Rules referenced here must have a v1 tag to remain in a ruleset.
+#
+# Example:
+# TDD
+# SpecsFirst
+

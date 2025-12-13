@@ -168,6 +168,7 @@ def main(argv: list[str]) -> int:
         p
         for p in rulesets_dir.glob("*.txt")
         if p.is_file()
+        and not p.name.startswith("_")
     )
     if not files:
         print("No ruleset files found (rulesets/*.txt).")
@@ -192,4 +193,3 @@ def main(argv: list[str]) -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main(sys.argv))
-

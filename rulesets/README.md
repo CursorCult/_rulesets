@@ -6,3 +6,4 @@ Rules are CursorCult rule pack repos (repos that do **not** start with `.` or `_
 
 Only rules with a `v1` tag are allowed.
 
+Start from `rulesets/_template.txt`.

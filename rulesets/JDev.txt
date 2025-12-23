@@ -1,0 +1,7 @@
+DRY
+TDD
+DesignToTest
+NoDeadCode
+PUTTPUTT
+Pinocchio
+TruthOrSilence
